@@ -14,5 +14,5 @@ I AM USING 2 DIFFERENT APPROACHES FOR THIS-----
     4. MORTOR DRIVER
     5.JUMPER
     
-2. Design of a Two-Wheel Self-Balancing Robot with the Implementation of a Novel State Feedback for PID Controller using On-Board State Estimation Algorithm.
+2. Two-Wheeled Self-Balanced Robot Based on Inverted Pendulum Model 
 1. theoretical approach only.
